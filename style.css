@@ -1,0 +1,19 @@
+body {
+  background-color: aqua;
+}
+
+h1, p {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+
+p {
+  color:coral;
+  font-weight: 600;
+}
